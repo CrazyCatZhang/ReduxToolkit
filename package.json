@@ -1,0 +1,11 @@
+{
+  "name": "ReduxToolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CrazyCatZhang/ReduxToolkit.git",
+  "author": "CrazyCatZhang <CrazyCatZhang@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
